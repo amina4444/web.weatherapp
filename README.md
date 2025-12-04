@@ -64,5 +64,5 @@ weather-app/
 
  
  ## Дизайн из Figma
-  [design](https://www.figma.com/design/954ztZg7NGUA64bS1BhdqL/weatherapp?node-id=0-1&t=cSc7y5hpYqfmxYaF-1)
+  [design](https://www.figma.com/design/954ztZg7NGUA64bS1BhdqL/weatherapp?node-id=4-436&t=KeddZ4BxNyzCDFDv-1)
 
